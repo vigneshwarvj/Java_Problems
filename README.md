@@ -67,7 +67,6 @@ If you'd like to contribute or suggest improvements, please follow these guideli
 ## Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- **LinkedIn:ℹ️** [Vigneshwar Vijayakumar (VV)](https://in.linkedin.com/in/vigneshwar-vijayakumar-58583724b)
 - **Email:📧** [Mail me](mailto:vigneshwarjosephite@gmail.com)
 
 Be relax and code 🚀
